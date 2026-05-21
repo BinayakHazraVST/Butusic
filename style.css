@@ -56,6 +56,10 @@ main{
   border-radius: 30px;
 }
 
+i{
+  cursor: pointer;
+}
+
 .moreCase{
   background-color: green;
   grid-area: moreCase;
